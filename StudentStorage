@@ -1,0 +1,12 @@
+
+package com.mycompany.nulibrarysystem;
+
+import java.util.ArrayList;
+
+
+public class StudentStorage {
+    public static ArrayList<StudentInfoModel>students = new ArrayList<>();
+    
+    
+    
+}
